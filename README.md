@@ -8,16 +8,16 @@ Sıfırdan Python öğrenme serisi. Her gün bir video, her videodan sonra kodu 
 | Gün | Konu | Video | Kod |
 |-----|------|-------|-----|
 | 1 | İlk kod: print, yorum, matematik | [İzle](https://youtube.com/shorts/GUN1_LINKI) | [Kod](gun01-ilk-kod/main.py) |
-| 2 | Değişkenler, veri tipleri, operatörler | Yakında | - |
-| 3 | input, f-string, tip dönüşümü | Yakında | - |
-| 4 | String işlemleri, slicing | Yakında | - |
-| 5 | if / elif / else, mantıksal operatörler | Yakında | - |
-| 6 | **Proje:** Hesap makinesi | Yakında | - |
+| 2 | Değişkenler, veri tipleri, operatörler | Yakında | [Kod](gun02-degiskenler/main.py) |
+| 3 | input, f-string, tip dönüşümü | Yakında | [Kod](gun03-input-fstring/main.py) |
+| 4 | String işlemleri, slicing | Yakında | [Kod](gun04-string-islemleri/main.py) |
+| 5 | if / elif / else, mantıksal operatörler | Yakında | [Kod](gun05-karar-ver/main.py) |
+| 6 | **Proje:** Hesap makinesi | Yakında | [Kod](gun06-hesap-makinesi/main.py) |
 
 ### Hafta 2 — Fonksiyonlar & Döngüler
 | Gün | Konu | Video | Kod |
 |-----|------|-------|-----|
-| 7 | Fonksiyon, return, DRY | Yakında | - |
+| 7 | Fonksiyon, return, DRY | Yakında | [Kod](gun07-fonksiyonlar/main.py) |
 | 8 | Parametreler, default, scope | Yakında | - |
 | 9 | while döngüsü | Yakında | - |
 | 10 | for döngüsü, range, enumerate | Yakında | - |
