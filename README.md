@@ -115,6 +115,8 @@ Bu seri [Novament Games](https://www.novamentstudios.com) oyun geliştirme yolcu
 [![Instagram](https://img.shields.io/badge/Instagram-thejarrus-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thejarrus/)
 [![TikTok](https://img.shields.io/badge/TikTok-thejarrus__-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@thejarrus_)
 [![GitHub](https://img.shields.io/badge/GitHub-thejarrus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thejarrus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet_Yiğit_Kasap-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-yigit-kasap/)
+[![Website](https://img.shields.io/badge/Website-mehmetyigitkasap.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mehmetyigitkasap.com/)
 
 ---
 
