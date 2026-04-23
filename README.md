@@ -24,23 +24,23 @@ Kod yazabiliyorum ama Python'a hiç dokunmamıştım. Bu seri, 30 günde Python 
 | Gün | Konu | Video | Kod |
 |-----|------|-------|-----|
 | 0 | Seri Tanıtım | [▶️](https://youtube.com/shorts/g9XYww_64H8) | - |
-| 1 | İlk kod: print, yorum, matematik | [▶️](https://youtube.com/shorts/GUN1_LINKI) | [📁](gun01-ilk-kod/main.py) |
-| 2 | Değişkenler, veri tipleri, operatörler | [▶️](https://youtube.com/shorts/GUN2_LINKI) | [📁](gun02-degiskenler/main.py) |
-| 3 | input, f-string, tip dönüşümü | [▶️](https://youtube.com/shorts/GUN3_LINKI) | [📁](gun03-input-fstring/main.py) |
-| 4 | String işlemleri, slicing | [▶️](https://youtube.com/shorts/GUN4_LINKI) | [📁](gun04-string-islemleri/main.py) |
-| 5 | if / elif / else, mantıksal operatörler | [▶️](https://youtube.com/shorts/GUN5_LINKI) | [📁](gun05-karar-ver/main.py) |
-| 6 | **Proje:** Hesap Makinesi | [▶️](https://youtube.com/shorts/GUN6_LINKI) | [📁](gun06-hesap-makinesi/main.py) |
+| 1 | İlk kod: print, yorum, matematik | [▶️](https://youtube.com/shorts/3ARUmKLmTr8) | [📁](gun01-ilk-kod/main.py) |
+| 2 | Değişkenler, veri tipleri, operatörler | [▶️](https://youtube.com/shorts/XUOMgPDvKfE) | [📁](gun02-degiskenler/main.py) |
+| 3 | input, f-string, tip dönüşümü | [▶️](https://youtube.com/shorts/JQCwHRRXtO0) | [📁](gun03-input-fstring/main.py) |
+| 4 | String işlemleri, slicing | [▶️](https://youtube.com/shorts/jcNt2KymfhQ) | [📁](gun04-string-islemleri/main.py) |
+| 5 | if / elif / else, mantıksal operatörler | [▶️](https://youtube.com/shorts/JkWHgfk7CX4) | [📁](gun05-karar-ver/main.py) |
+| 6 | **Proje:** Hesap Makinesi | [▶️](https://youtube.com/shorts/OVhWdALqRdQ) | [📁](gun06-hesap-makinesi/main.py) |
 
 ### 🟡 Hafta 2 — Fonksiyonlar & Döngüler
 
 | Gün | Konu | Video | Kod |
 |-----|------|-------|-----|
-| 7 | Fonksiyon, return, DRY | [▶️](https://youtube.com/shorts/GUN7_LINKI) | [📁](gun07-fonksiyonlar/main.py) |
-| 8 | Parametreler, default, scope | Yakında | - |
-| 9 | while döngüsü | Yakında | - |
-| 10 | for döngüsü, range, enumerate | Yakında | - |
-| 11 | break, continue, pass | Yakında | - |
-| 12 | **Proje:** Sayı Tahmin Oyunu | Yakında | - |
+| 7 | Fonksiyon, return, DRY | [▶️](https://youtube.com/shorts/XgyIlO5BpAs) | [📁](gun07-fonksiyonlar/main.py) |
+| 8 | Parametreler, default, scope | [▶️](https://youtube.com/shorts/u1PyDndjY5k) | [📁](gun08-parametreler/main.py) |
+| 9 | while döngüsü | [▶️](https://youtube.com/shorts/vVLrGrRE8Ts) | [📁](gun09-while-dongusu/main.py) |
+| 10 | for döngüsü, range, enumerate | [▶️](https://youtube.com/shorts/D_N0sgVUL5Y) | [📁](gun10-for-dongusu/main.py) |
+| 11 | break, continue, pass | [▶️](https://youtube.com/shorts/JOplihAMkBk) | [📁](gun11-break-continue-pass/main.py) |
+| 12 | **Proje:** Sayı Tahmin Oyunu | [▶️](https://youtube.com/shorts/m46zTaZEIFc) | [📁](gun12-sayi-tahmin-oyunu/main.py) |
 
 ### 🔵 Hafta 3 — Veri Yapıları
 
@@ -106,6 +106,8 @@ Kod yazabiliyorum ama Python'a hiç dokunmamıştım. Bu seri, 30 günde Python 
 Bu seri [Novament Games](https://www.novamentstudios.com) oyun geliştirme yolculuğunun bir parçasıdır.
 
 [![Website](https://img.shields.io/badge/Website-novamentstudios.com-blue?style=for-the-badge)](https://www.novamentstudios.com)
+[![Instagram](https://img.shields.io/badge/Instagram-novamentgames-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/novamentgames/)
+[![TikTok](https://img.shields.io/badge/TikTok-novamentgames-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@novamentgames)
 
 ---
 
